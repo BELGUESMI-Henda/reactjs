@@ -1,0 +1,18 @@
+section {
+    margin-top: 100px;
+    color: rgb(191, 201, 191);
+    
+}
+body{
+    background-color: rgb(94, 145, 102);
+    position: absolute;
+    margin-top: 100px;
+}
+#name{
+    background-color: rgb(235, 243, 243);
+    color: black;
+}
+button{
+    margin-left: 50%;
+    background-color:white ;
+}
